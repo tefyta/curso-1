@@ -1,7 +1,5 @@
-# curso-1
-curso basico R
+#curso del grupo 2
 ## Documentos 
-### lista 
 
 Documentos del curso de r basico 
 
